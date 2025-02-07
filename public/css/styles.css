@@ -424,7 +424,7 @@ img {
         display: none;
     }
     .content {
-        width: calc(100vw - 240px);
+        width: calc(100vw - 70px);
     }
 
     .video-container {
